@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/490_Mernstack/static/css/main.f855e6bc.css",
-    "main.js": "/490_Mernstack/static/js/main.c1ad5c0b.js",
+    "main.js": "/490_Mernstack/static/js/main.075661cd.js",
     "static/js/592.c0951c02.chunk.js": "/490_Mernstack/static/js/592.c0951c02.chunk.js",
-    "static/media/image20.jpg": "/490_Mernstack/static/media/image20.ed7996fe537de8f791be.jpg",
+    "static/media/image20.jpg": "/490_Mernstack/static/media/image20.466b34bebd8af75f742e.jpg",
     "static/media/logo.svg": "/490_Mernstack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/490_Mernstack/index.html",
     "main.f855e6bc.css.map": "/490_Mernstack/static/css/main.f855e6bc.css.map",
-    "main.c1ad5c0b.js.map": "/490_Mernstack/static/js/main.c1ad5c0b.js.map",
+    "main.075661cd.js.map": "/490_Mernstack/static/js/main.075661cd.js.map",
     "592.c0951c02.chunk.js.map": "/490_Mernstack/static/js/592.c0951c02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c1ad5c0b.js"
+    "static/js/main.075661cd.js"
   ]
 }
